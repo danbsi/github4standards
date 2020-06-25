@@ -1,6 +1,6 @@
 # github4standards
 ## context
-- the d^4 gruop recognise - as well as many others - that we may be able to use new tools to speed up standards making
+- the d^4 group recognise - as well as many others at bsi - that we may be able to use new tools to speed up standards making
 - there is neglible barrier to trying github as a tool for this
 - we ahve committees that are very technically competent, and may as well trial tools (github, wiki, other...)
 
@@ -14,6 +14,7 @@
 - we are not experts in github and the methods associated with using it, we need to find a champion to drive it
 - this is an quick experiement
 - if the trial doesn't work, we have learnt about the tool
+- this project is not a secret and we should share what we are doing - without inflating it
 
 ## next steps
 - identify someone to drive the project that knows github
