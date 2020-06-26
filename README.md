@@ -22,3 +22,4 @@
 - work with them to develop their scope for the piece of work they are undertaking
 - feed that back in to what we want to know about github as a standards platform
 - talk to microsoft about how we might be able to trial and use github in a more manageable way
+- what opportuntities and risks might this represent - are we thinking commericially, do we need to?
