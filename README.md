@@ -2,7 +2,7 @@
 ## context
 - the d^4 group recognise - as well as many others at bsi - that we may be able to use new tools to speed up standards making
 - there is neglible barrier to trying github as a tool for this
-- we ahve committees that are very technically competent, and may as well trial tools (github, wiki, other...)
+- we have committees that are very technically competent, and may as well trial tools (github, wiki, other...)
 
 ## purpose
 - determine if github works for early stage standards development
@@ -23,3 +23,4 @@
 - feed that back in to what we want to know about github as a standards platform
 - talk to microsoft about how we might be able to trial and use github in a more manageable way
 - what opportuntities and risks might this represent - are we thinking commericially, do we need to?
+- inform Amanda Saunders (SSM) who has been working on agile standards for covid response
