@@ -9,6 +9,7 @@
 - learn the advantages and disadvantages in the tool and the way committees and bsi staff could use the tool
 - what this is not
 -- a tool for formal standards
+- compare a use case to fit in to other projects
 
 ## principles
 - we are not experts in github and the methods associated with using it, we need to find a champion to drive it
@@ -24,3 +25,13 @@
 - talk to microsoft about how we might be able to trial and use github in a more manageable way
 - what opportuntities and risks might this represent - are we thinking commericially, do we need to?
 - inform Amanda Saunders (SSM) who has been working on agile standards for covid response
+- do we need to worry about licensing and/or privacy (github being public)?
+- develop use case
+
+## IS concerns
+- Branching
+- Markdown
+- Respository model
+- No structure/template
+- Educate on style and rules
+- People have solved this already
