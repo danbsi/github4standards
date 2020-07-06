@@ -14,7 +14,7 @@
 - we are not experts in github and the methods associated with using it, we need to find a champion to drive it
 - this is an quick experiement
 - if the trial doesn't work, we have learnt about the tool
-- this project is not a secret and we should share what we are doing - without inflating it
+- this is an experiment; it is not a secret and we should share what we are doing - without inflating it
 
 ## next steps
 - identify someone to drive the project that knows github
@@ -23,4 +23,4 @@
 - feed that back in to what we want to know about github as a standards platform
 - talk to microsoft about how we might be able to trial and use github in a more manageable way
 - what opportuntities and risks might this represent - are we thinking commericially, do we need to?
-- inform Amanda Saunders (SSM) who has been working on agile standards for covid response
+- DONE ~~inform Amanda Saunders (SSM) who has been working on agile standards for covid response~~
