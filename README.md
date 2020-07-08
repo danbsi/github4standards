@@ -9,6 +9,7 @@
 - learn the advantages and disadvantages in the tool and the way committees and bsi staff could use the tool
 - what this is not
 -- a tool for formal standards
+- teach people in BSI about github
 
 ## principles
 - we are not experts in github and the methods associated with using it, we need to find a champion to drive it
@@ -23,4 +24,5 @@
 - feed that back in to what we want to know about github as a standards platform
 - talk to microsoft about how we might be able to trial and use github in a more manageable way
 - what opportuntities and risks might this represent - are we thinking commericially, do we need to?
+- make sure I update KH
 - DONE ~~inform Amanda Saunders (SSM) who has been working on agile standards for covid response~~
