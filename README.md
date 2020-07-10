@@ -31,3 +31,7 @@
 - privacy concerns (useage patterns, personal data, etc)
 - visibility to third party
 - commerical risk
+- security perimeter
+- who could manipulate data?
+- pricniple of BSI being indepdent, neutral and "holding the reigns"
+- don't ask experts to sign agreements with others
