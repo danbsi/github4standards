@@ -30,7 +30,7 @@
    - basic training (or how to: add a comment, make an edit... / how to use it) / live session
 - feed that back in to what we want to know about github as a standards platform
 - talk to Microsoft about how we might be able to trial and use github in a more manageable way
-- make sure I update KH
+- make sure I update KH - as well as DH
 - DONE ~~inform AmS (SSM) who has been working on agile standards for covid response~~
 
 
@@ -43,3 +43,4 @@
 - who could manipulate data?
 - principle of BSI being independent, neutral and "holding the reigns"
 - don't ask experts to sign agreements with others
+- Testing a new line
